@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundLayout_roundLayoutRadius" format="integer">12</declare-styleable>
+
+    <declare-styleable name="BlurView">
+        <attr name="blurOverlayColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundCorner">
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="topLeftRadius" format="dimension" />
+        <attr name="topRightRadius" format="dimension" />
+        <attr name="bottomRightRadius" format="dimension" />
+        <attr name="bottomLeftRadius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundLayout">
+        <attr name="RoundLayout_roundLayoutRadius" format="integer" />
+    </declare-styleable>
+</resources>
